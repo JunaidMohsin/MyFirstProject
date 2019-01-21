@@ -1,7 +1,7 @@
 this git lecture is cool.
 
-<<<<<<< HEAD
+
 hello this is fun!
-=======
+
 its cold outside. 
->>>>>>> a94399e69e93b72294c0be5dcd7ca878487af31c
+
