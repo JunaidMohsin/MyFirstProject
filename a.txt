@@ -1,3 +1,7 @@
 this git lecture is driving me nuts.
 
+<<<<<<< HEAD
 hello this is not fun to be honest and i need a break now!
+=======
+its cold outside. 
+>>>>>>> a94399e69e93b72294c0be5dcd7ca878487af31c
